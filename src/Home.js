@@ -84,7 +84,7 @@ function Home() {
               <h3 className="home__text pz__10">& React Developer.</h3>
               <div className="about__button d__flex align__items__center">
               <a href="https://www.youtube.com/channel/UCQ188dyxCgqYdG1wRdbJtpw">
-                  <button className="about btn pointer">Youtube Video</button>
+                  <button className="about btn pointer">Get Started</button>
                 </a>
               
               </div>
