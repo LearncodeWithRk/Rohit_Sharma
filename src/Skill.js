@@ -15,7 +15,7 @@ function Skill() {
       
 
       <a href="https://www.youtube.com/channel/UCQ188dyxCgqYdG1wRdbJtpw/featured"><img src={footerImg4} alt="" className="footer__img4 pointer" /></a>
-      <a href="https://api.whatsapp.com/message/6ZYDPSVGUWVHK1?autoload=1&app_absent=0"><img src={footerImg5} alt="" className="footer__img5 pointer" /></a>
+      <a href="https://api.whatsapp.com/send?phone=919599695872&text=Hello"><img src={footerImg5} alt="" className="footer__img5 pointer" /></a>
 
       
 

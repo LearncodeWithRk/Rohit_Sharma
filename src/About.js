@@ -37,7 +37,7 @@ designing my interfaces, and I always aim to create a positive user experience.
                 <a href="https://mega.nz/file/d18hiQxA#c7HnzZJYjMEY1Zh6Umsid3q3ns5Xk0npGylgPRfX5hM">
                   <button className="about btn pointer">Download Cv</button>
                 </a>
-                <a href="https://api.whatsapp.com/message/6ZYDPSVGUWVHK1?autoload=1&app_absent=0">
+                <a href="https://api.whatsapp.com/send?phone=919599695872&text=Hello">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
               </div>

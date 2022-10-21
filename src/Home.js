@@ -67,7 +67,7 @@ function Home() {
               <a href="#Portfolio">Portfolio</a>
             </li>
             <li className="sideNavbar">
-              <a href="https://api.whatsapp.com/message/6ZYDPSVGUWVHK1?autoload=1&app_absent=0">Call Us</a>
+              <a href="https://api.whatsapp.com/send?phone=919599695872&text=Hello">Call Us</a>
             </li>
            
             
